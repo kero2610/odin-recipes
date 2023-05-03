@@ -1,2 +1,2 @@
 # odin-recipes
-Hello! Currently doing my first HTML Project. Good luck!
+Hello! Currently doing my first HTML Project. All the best!!!
